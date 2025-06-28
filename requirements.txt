@@ -1,7 +1,8 @@
+joblib
+transformers
+torch
+sentencepiece
 streamlit
 scikit-learn
 pandas
-tokenizers
-transformers
 langdetect
-joblib
