@@ -1,8 +1,8 @@
-joblib
-transformers
-torch
-sentencepiece
 streamlit
+transformers==4.39.3
+torch==2.2.1
+sentencepiece==0.1.99
 scikit-learn
 pandas
 langdetect
+joblib
