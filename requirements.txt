@@ -1,8 +1,9 @@
 streamlit==1.35.0
-pandas
-scikit-learn
+pandas==2.2.2
+scikit-learn==1.3.2
 transformers==4.39.3
 torch==2.2.1
 sentencepiece==0.1.99
-langdetect
-joblib
+langdetect==1.0.9
+joblib==1.3.2
+
